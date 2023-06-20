@@ -1,0 +1,5 @@
+introduccion :
+La empresa Zuber, es una nueva asociación de viajes compartidos que se está lanzando en Chicago. 
+Se nos ha solicitado la tarea de encontrar patrones en la información disponibles, con el fin de facilitar los procesos de mejora continua en la empresa.
+El objetivo de este proyecto es comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes. 
+De esa manera aportar herramientas de desición para que la empresa eliga una estrategia de crecimiento.
